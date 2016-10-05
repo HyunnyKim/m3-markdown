@@ -10,6 +10,8 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-`How do use the terminal command` **mkdir** 
-| _it creates a instant directory of any of the desired file_ |
-| _for example, you can use it to create a new file for this class: INFO 201_|
+
+
+# How do use the terminal command `mkdir` 
++ it creates a instant directory of any of the desired file
++ for example, you can use it to create a new file for this class: INFO 201
