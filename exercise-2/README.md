@@ -8,7 +8,7 @@ See `complete` branch for answers.
 
 
 #Course Schedule
-|**COURSE**|**Course Title**|
-|
-|
-|
+Course Number	Course Title	Instructor
+COURSE1	Course 1 title	Instructor 1
+COURSE2	Course 2 title	Instructor 2
+COURSE3	Course 3 title	Instructor 3
