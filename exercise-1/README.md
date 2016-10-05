@@ -8,4 +8,4 @@ See `complete` branch for an example.
 
 #Favorite Quote
 "I like women" - Harry Shin 
-[here]https://www.facebook.com/shinharry45
+click [here](https://www.facebook.com/shinharry45) for more.
