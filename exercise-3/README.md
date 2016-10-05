@@ -9,3 +9,7 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+`How do use the terminal command` **mkdir** 
+| _it creates a instant directory of any of the desired file_ |
+| _for example, you can use it to create a new file for this class: INFO 201_|
